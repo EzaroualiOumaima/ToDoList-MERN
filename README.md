@@ -67,10 +67,6 @@ L'application sera accessible à l'adresse `http://localhost:3000` par défaut.
 
 Les contributions sont les bienvenues ! Pour toute suggestion d'amélioration, veuillez ouvrir une issue pour discuter des changements proposés.
 
-## Auteurs
-
-- FARHAN MOHAMMAD
-- EZAROALI Oumaima
 
 ## Licence
 
